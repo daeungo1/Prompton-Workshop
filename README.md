@@ -18,6 +18,6 @@
 
 2. 웹주소/QR Code 및 Code 입력으로 연결
 
-   ![menti](\images\menti.png)
+   ![menti](./images/menti.png)
 
    
